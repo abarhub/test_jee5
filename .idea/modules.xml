@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ear1/ear1.iml" filepath="$PROJECT_DIR$/ear1/ear1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appweb/org.test_jee5.appweb.iml" filepath="$PROJECT_DIR$/appweb/org.test_jee5.appweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appwebjsf/org.test_jee5.appwebjsf.iml" filepath="$PROJECT_DIR$/appwebjsf/org.test_jee5.appwebjsf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejb1/org.test_jee5.ejb1.iml" filepath="$PROJECT_DIR$/ejb1/org.test_jee5.ejb1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejb2/org.test_jee5.ejb2.iml" filepath="$PROJECT_DIR$/ejb2/org.test_jee5.ejb2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejb3jpa/org.test_jee5.ejb3jpa.iml" filepath="$PROJECT_DIR$/ejb3jpa/org.test_jee5.ejb3jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejb4compteur/org.test_jee5.ejb4compteur.iml" filepath="$PROJECT_DIR$/ejb4compteur/org.test_jee5.ejb4compteur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejb5rest/org.test_jee5.ejb5rest.iml" filepath="$PROJECT_DIR$/ejb5rest/org.test_jee5.ejb5rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejb6jmsp/org.test_jee5.ejb6jmsp.iml" filepath="$PROJECT_DIR$/ejb6jmsp/org.test_jee5.ejb6jmsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejb7jmsr/org.test_jee5.ejb7jmsr.iml" filepath="$PROJECT_DIR$/ejb7jmsr/org.test_jee5.ejb7jmsr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_jee5.iml" filepath="$PROJECT_DIR$/test_jee5.iml" />
+    </modules>
+  </component>
+</project>

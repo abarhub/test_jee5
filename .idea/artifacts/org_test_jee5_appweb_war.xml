@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="org.test_jee5.appweb:war">
+    <output-path>$PROJECT_DIR$/appweb/target</output-path>
+    <root id="archive" name="org.test_jee5.appweb-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="org.test_jee5.appweb:war exploded" />
+    </root>
+  </artifact>
+</component>

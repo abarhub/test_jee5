@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="org.test_jee5.ejb5rest:ejb">
+    <output-path>$PROJECT_DIR$/ejb5rest/target</output-path>
+    <root id="archive" name="org.test_jee5.ejb5rest-1.0-SNAPSHOT.jar">
+      <element id="artifact" artifact-name="org.test_jee5.ejb5rest:ejb exploded" />
+    </root>
+  </artifact>
+</component>

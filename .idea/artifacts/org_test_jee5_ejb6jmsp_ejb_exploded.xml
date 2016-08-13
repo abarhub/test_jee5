@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="org.test_jee5.ejb6jmsp:ejb exploded">
+    <output-path>$PROJECT_DIR$/ejb6jmsp/target/org.test_jee5.ejb6jmsp-1.0-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="org.test_jee5.ejb6jmsp/ejb/EJB" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/ejb6jmsp/target/org.test_jee5.ejb6jmsp-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="org.test_jee5.ejb6jmsp" />
+    </root>
+  </artifact>
+</component>
